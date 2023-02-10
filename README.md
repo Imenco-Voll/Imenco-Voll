@@ -1,7 +1,8 @@
 <p align="center">
-<img src="https://user-images.githubusercontent.com/118727012/218040836-14171369-8dbf-4e05-bbf6-9b5c4e72809d.png" alt="Imenco logo">
+<img src="https://user-images.githubusercontent.com/118727012/218048926-3dfff798-a04b-4770-b676-5e06f0fc99b5.png" alt="Imenco logo">
 </p>
 
-# Imenco Voll
-## Smart Solutions
+# Imenco
+Smart Solutions
+
 
